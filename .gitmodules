@@ -2,3 +2,5 @@
 	path = termux-packages
 	branch = master
 	url = https://github.com/termux/termux-packages
+[submodule "https://github.com/Martinvlba/termux-packages"]
+	url = termux-packages/
